@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Robert2\\source\\repos\\LoginMetricsInterfaces\\LoginMetricsInterfaces.csproj": {}
+    "C:\\Users\\Robert2\\Desktop\\hublsoft9\\hublsoft\\LoginMetricsInterfaces\\LoginMetricsInterfaces.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Robert2\\source\\repos\\LoginMetricsInterfaces\\LoginMetricsInterfaces.csproj": {
+    "C:\\Users\\Robert2\\Desktop\\hublsoft9\\hublsoft\\LoginMetricsInterfaces\\LoginMetricsInterfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Robert2\\source\\repos\\LoginMetricsInterfaces\\LoginMetricsInterfaces.csproj",
+        "projectUniqueName": "C:\\Users\\Robert2\\Desktop\\hublsoft9\\hublsoft\\LoginMetricsInterfaces\\LoginMetricsInterfaces.csproj",
         "projectName": "LoginMetricsInterfaces",
-        "projectPath": "C:\\Users\\Robert2\\source\\repos\\LoginMetricsInterfaces\\LoginMetricsInterfaces.csproj",
+        "projectPath": "C:\\Users\\Robert2\\Desktop\\hublsoft9\\hublsoft\\LoginMetricsInterfaces\\LoginMetricsInterfaces.csproj",
         "packagesPath": "C:\\Users\\Robert2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Robert2\\source\\repos\\LoginMetricsInterfaces\\obj\\",
+        "outputPath": "C:\\Users\\Robert2\\Desktop\\hublsoft9\\hublsoft\\LoginMetricsInterfaces\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

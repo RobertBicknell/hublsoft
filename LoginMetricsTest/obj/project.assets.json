@@ -5910,11 +5910,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Robert2\\source\\repos\\LoginMetricsTest\\LoginMetricsTest.csproj",
+      "projectUniqueName": "C:\\Users\\Robert2\\Desktop\\hublsoft9\\hublsoft\\LoginMetricsTest\\LoginMetricsTest.csproj",
       "projectName": "LoginMetricsTest",
-      "projectPath": "C:\\Users\\Robert2\\source\\repos\\LoginMetricsTest\\LoginMetricsTest.csproj",
+      "projectPath": "C:\\Users\\Robert2\\Desktop\\hublsoft9\\hublsoft\\LoginMetricsTest\\LoginMetricsTest.csproj",
       "packagesPath": "C:\\Users\\Robert2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Robert2\\source\\repos\\LoginMetricsTest\\obj\\",
+      "outputPath": "C:\\Users\\Robert2\\Desktop\\hublsoft9\\hublsoft\\LoginMetricsTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5933,14 +5933,14 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\Robert2\\source\\repos\\LoginMetricsInterfaces\\LoginMetricsInterfaces.csproj": {
-              "projectPath": "C:\\Users\\Robert2\\source\\repos\\LoginMetricsInterfaces\\LoginMetricsInterfaces.csproj"
+            "C:\\Users\\Robert2\\Desktop\\hublsoft9\\hublsoft\\LoginMetricsInterfaces\\LoginMetricsInterfaces.csproj": {
+              "projectPath": "C:\\Users\\Robert2\\Desktop\\hublsoft9\\hublsoft\\LoginMetricsInterfaces\\LoginMetricsInterfaces.csproj"
             },
-            "C:\\Users\\Robert2\\source\\repos\\LoginMetricsMockData\\LoginMetricsMockData.csproj": {
-              "projectPath": "C:\\Users\\Robert2\\source\\repos\\LoginMetricsMockData\\LoginMetricsMockData.csproj"
+            "C:\\Users\\Robert2\\Desktop\\hublsoft9\\hublsoft\\LoginMetricsMockData\\LoginMetricsMockData.csproj": {
+              "projectPath": "C:\\Users\\Robert2\\Desktop\\hublsoft9\\hublsoft\\LoginMetricsMockData\\LoginMetricsMockData.csproj"
             },
-            "C:\\Users\\Robert2\\source\\repos\\LoginMetrics\\LoginMetrics.csproj": {
-              "projectPath": "C:\\Users\\Robert2\\source\\repos\\LoginMetrics\\LoginMetrics.csproj"
+            "C:\\Users\\Robert2\\Desktop\\hublsoft9\\hublsoft\\LoginMetrics\\LoginMetrics.csproj": {
+              "projectPath": "C:\\Users\\Robert2\\Desktop\\hublsoft9\\hublsoft\\LoginMetrics\\LoginMetrics.csproj"
             }
           }
         }
