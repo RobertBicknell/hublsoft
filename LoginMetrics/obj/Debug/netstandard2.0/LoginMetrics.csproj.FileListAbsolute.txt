@@ -1,0 +1,12 @@
+C:\Users\Robert2\source\repos\LoginMetrics\bin\Debug\netstandard2.0\LoginMetrics.deps.json
+C:\Users\Robert2\source\repos\LoginMetrics\bin\Debug\netstandard2.0\LoginMetrics.dll
+C:\Users\Robert2\source\repos\LoginMetrics\bin\Debug\netstandard2.0\LoginMetrics.pdb
+C:\Users\Robert2\source\repos\LoginMetrics\obj\Debug\netstandard2.0\LoginMetrics.csproj.CoreCompileInputs.cache
+C:\Users\Robert2\source\repos\LoginMetrics\obj\Debug\netstandard2.0\LoginMetrics.AssemblyInfoInputs.cache
+C:\Users\Robert2\source\repos\LoginMetrics\obj\Debug\netstandard2.0\LoginMetrics.AssemblyInfo.cs
+C:\Users\Robert2\source\repos\LoginMetrics\obj\Debug\netstandard2.0\LoginMetrics.dll
+C:\Users\Robert2\source\repos\LoginMetrics\obj\Debug\netstandard2.0\LoginMetrics.pdb
+C:\Users\Robert2\source\repos\LoginMetrics\bin\Debug\netstandard2.0\LoginMetricsInterfaces.dll
+C:\Users\Robert2\source\repos\LoginMetrics\bin\Debug\netstandard2.0\LoginMetricsInterfaces.pdb
+C:\Users\Robert2\source\repos\LoginMetrics\obj\Debug\netstandard2.0\LoginMetrics.csprojAssemblyReference.cache
+C:\Users\Robert2\source\repos\LoginMetrics\obj\Debug\netstandard2.0\LoginMetrics.csproj.CopyComplete
